@@ -1,22 +1,22 @@
 # SQL--Finance-Supply-Chain-Analytics
 
-AtliQ Hardwares: Finance and Supply Chain Analytics Project Using SQL
+### **AtliQ Hardwares: Finance and Supply Chain Analytics Project Using SQL**
 
 This repository presents a comprehensive SQL-based analytics project focused on the Finance and Supply Chain domains of AtliQ Hardwares. It was developed as part of the Data Analytics Bootcamp conducted by Codebasics and demonstrates the application of SQL for deriving actionable business insights.
 
-Project Overview
+## Project Overview
 
 AtliQ Hardwares is a multinational organization specializing in computer hardware, including PCs, printers, and accessories. The project utilizes structured datasets that encapsulate key business operations, such as sales performance, customer segmentation, and regional distribution metrics.
 
-Objective
+## Objective
 
 The primary goal of this initiative is to analyze transactional data using MySQL to extract meaningful insights that can inform strategic decisions. The project explores customer trends, sales patterns, and supply chain efficiency across various regions and product categories.
 
-Business Context
+## Business Context
 
 Due to limitations encountered in traditional spreadsheet tools—primarily file size and performance constraints—AtliQ Hardwares initiated a transition to a database-driven approach. By leveraging MySQL, the organization aims to overcome operational inefficiencies and enable its analytics team to perform more scalable and reliable data analysis.
 
-Key Findings
+## Key Findings
 
 1. Amazon emerged as the top-performing customer with net sales of $109.03M in FY 2021, followed by AtliQ Exclusive at $79.92M.
 
@@ -33,7 +33,7 @@ Key Findings
 5. India ranked first in the APAC region in terms of gross sales performance.
 
 
-Skills Acquired
+## Skills Acquired
 
 1. Designing and implementing user-defined functions to enhance query logic and reusability.
 
@@ -68,7 +68,7 @@ Skills Acquired
 
  **SQL Queries:** Contains the SQL queries used to extract and analyze data from the AtliQ Hardwares dataset. [SQL Queries.pdf](https://github.com/prashantshukla124/SQL--Finance-Supply-Chain-Analytics/blob/main/SQL.Queries.pdf)
 
-Project
+## Project
 
 ![Slide1](https://github.com/user-attachments/assets/9bd19391-d22f-471f-8922-4eab17d80a1f)
 ![Slide2](https://github.com/user-attachments/assets/aed18397-03b7-4a72-bbe0-da78fa5a138e)
@@ -96,5 +96,5 @@ Project
 ![Slide24](https://github.com/user-attachments/assets/bb5b31c8-b6e3-4001-941d-2024c898bc7e)
 
 
-About Codebasics Data Analytics Bootcamp
+## About Codebasics Data Analytics Bootcamp
 This project is part of the Data Analytics Bootcamp curriculum at Codebasics. The bootcamp equips participants with essential skills and techniques in data analytics, covering various domains and real-world applications.
