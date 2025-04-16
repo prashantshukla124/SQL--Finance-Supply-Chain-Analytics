@@ -64,6 +64,9 @@ Skills Acquired
 
 10. Executing fundamental data operations such as insertion, updating, and deletion.
 
+### Repository Contents
+
+ **SQL Queries:** Contains the SQL queries used to extract and analyze data from the AtliQ Hardwares dataset. [SQL Queries.pdf](https://github.com/prashantshukla124/SQL--Finance-Supply-Chain-Analytics/blob/main/SQL.Queries.pdf)
 
 Project
 
